@@ -31,4 +31,3 @@ function Children(name) {
 }
 // Set prototype to Parent and inherit all prototypal methods
 Children.prototype = new Parent()
-
